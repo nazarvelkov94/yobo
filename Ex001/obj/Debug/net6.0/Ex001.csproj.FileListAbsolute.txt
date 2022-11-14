@@ -1,0 +1,15 @@
+D:\CSharp\repo\Examplies\Ex001\bin\Debug\net6.0\Ex001.exe
+D:\CSharp\repo\Examplies\Ex001\bin\Debug\net6.0\Ex001.deps.json
+D:\CSharp\repo\Examplies\Ex001\bin\Debug\net6.0\Ex001.runtimeconfig.json
+D:\CSharp\repo\Examplies\Ex001\bin\Debug\net6.0\Ex001.dll
+D:\CSharp\repo\Examplies\Ex001\bin\Debug\net6.0\Ex001.pdb
+D:\CSharp\repo\Examplies\Ex001\obj\Debug\net6.0\Ex001.csproj.AssemblyReference.cache
+D:\CSharp\repo\Examplies\Ex001\obj\Debug\net6.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\repo\Examplies\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfoInputs.cache
+D:\CSharp\repo\Examplies\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfo.cs
+D:\CSharp\repo\Examplies\Ex001\obj\Debug\net6.0\Ex001.csproj.CoreCompileInputs.cache
+D:\CSharp\repo\Examplies\Ex001\obj\Debug\net6.0\Ex001.dll
+D:\CSharp\repo\Examplies\Ex001\obj\Debug\net6.0\refint\Ex001.dll
+D:\CSharp\repo\Examplies\Ex001\obj\Debug\net6.0\Ex001.pdb
+D:\CSharp\repo\Examplies\Ex001\obj\Debug\net6.0\Ex001.genruntimeconfig.cache
+D:\CSharp\repo\Examplies\Ex001\obj\Debug\net6.0\ref\Ex001.dll
